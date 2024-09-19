@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://www.canva.com/design/DAGROiu7wgU/6xTQJ3c2fMuy_bfJCFyrQA/watch" alt="Banner GIF" />
+  <img src="https://irina-babenko.github.io/readme-content-img/" alt="Banner GIF" />
 </div>
 
 ###
