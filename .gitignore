@@ -1,0 +1,29 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS system files (если работаешь с кем-то на macOS)
+.DS_Store
+
+# Linux temporary files
+*~
+
+# Visual Studio Code settings
+.vscode/
+
+# Node.js (если будешь использовать npm или yarn)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Videos and images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mov
+*.avi
+*.webm
