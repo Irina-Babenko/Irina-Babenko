@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi there!👋 My name is Ira!</h1>
+<h1 align="center" style="color: #3498db;">Hi there!👋 My name is Ira!</h1>
 
 ###
 
