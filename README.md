@@ -1,8 +1,6 @@
 <br clear="both">
 
-<div align="center">
-  <img height="300" width="600" src="https://www.canva.com/design/DAGROIE8-eY/9C0xHEegwvvOJqYl_Mm_AQ/watch"  />
-</div>
+[Watch the video on Canva](https://www.canva.com/design/DAGROIE8-eY/9C0xHEegwvvOJqYl_Mm_AQ/watch)
 
 ###
 
