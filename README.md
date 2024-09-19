@@ -1,10 +1,12 @@
 <br clear="both">
 
-[Watch the video on Canva](https://www.canva.com/design/DAGROIE8-eY/9C0xHEegwvvOJqYl_Mm_AQ/watch)
+<div align="center">
+  <img src="./assets/Video.gif" alt="Banner GIF" />
+</div>
 
 ###
 
-<h1 align="center" style="color: #3498db;">Hi there!👋 My name is Ira!</h1>
+<h1 align="center">Hi there!👋 My name is Ira!</h1>
 
 ###
 
