@@ -1,11 +1,6 @@
 <br clear="both">
 
-<div align="center">
-
- <img height="300" width="600" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk"  />
-</div>
-
-</div>
+![Banner](//assets/Video.gif)
 
 ###
 
