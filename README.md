@@ -1,6 +1,6 @@
 <br clear="both">
 
-![Banner](//assets/Video.gif)
+![Banner](./assets/Video.gif)
 
 ###
 
