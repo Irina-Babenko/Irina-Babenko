@@ -30,11 +30,11 @@
 
 ###
 
-<h1  align="center">HEY!👋 I am Ira!✨</h1>
+<h1  align="center"> LOVE WHOT YOU DO! GET INSPIRED! BE IN BALANCE!✨ </h1>
 
 ###
 
-<h3 align="left">👩‍💻 About  me</h3>
+<h3 align="left">👩‍💻 HEY!👋 I am Ira!</h3>
 
 ###
 
