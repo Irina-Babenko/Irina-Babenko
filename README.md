@@ -1,16 +1,24 @@
-<br clear="both">
-
 ###
 
 <h1  align="center">HEY!👋 I am Ira!✨</h1>
 
 ###
 
-<div  align="center">
+<!-- HEY! -->
+
+<!-- <div  align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" height="300" width="500">
-</div>
+</div> -->
 
 ###
+
+<!-- - Star passing -->
+
+<div  align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+</div>
+
+<br clear="both">
 
 <h3 align="left">👩‍💻 About  me</h3>
 
