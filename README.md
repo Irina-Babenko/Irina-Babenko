@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Hi there!👋 My name is Ira!</h1>
+<h1 align="left">Hi there!👋 My name is Ira!</h1>
 
 ###
 
