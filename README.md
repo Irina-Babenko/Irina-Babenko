@@ -8,15 +8,23 @@
 
 <!-- - Star passing -->
 
-<div  align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="700" height="300">
-</div>
+<!-- <div  align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="700" height="350">
+</div> -->
 
 ###
 
 <!-- Baner -->
 
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /> -->
+
+###
+
+<!-- Laptop -->
+
+<div  align="right"
+<img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="400">
+</div>
 
 ###
 
