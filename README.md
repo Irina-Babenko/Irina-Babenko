@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 a b o u t   m e</h3>
+<h3 align="left">👩‍💻 About  me</h3>
 
 ###
 
