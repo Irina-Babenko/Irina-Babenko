@@ -20,6 +20,10 @@
 
 ###
 
+<!-- Boy -->
+
+###
+
 <h1  align="center">HEY!👋 I am Ira!✨</h1>
 
 ###
@@ -53,15 +57,13 @@
 
 ###
 
-<h3 align="left">🔥  My statistics :</h3>
+<h3 align="left">✨  My statistics :</h3>
 
 ###
 
   <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Irina-Babenko&locale=en&mode=daily&theme=monokai-metallian&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Irina-Babenko&locale=en&mode=daily&theme=monokai-metallian&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
 </div>
-
-<
 
 ###
 
@@ -70,6 +72,10 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Irina-Babenko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
 
 <!--
 **Irina-Babenko/Irina-Babenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
