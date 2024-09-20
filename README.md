@@ -1,8 +1,10 @@
-<br clear="both">
+<!-- <br clear="both">
 
 <div align="center">
   <<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
-</div>
+</div> -->
+
+![Header](./your-header-image-name.png)
 
 ###
 
