@@ -1,3 +1,5 @@
+<!-- alt imeges -->
+
 <!-- HEY! -->
 
 <!-- <div  align="center">
@@ -12,24 +14,19 @@
 
 ###
 
-<!-- - Star passing -->
+<!-- Boy -->
 
-<!-- <div  align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="700" height="350">
+<!-- <div  align="right">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 </div> -->
 
 ###
 
-<!-- Boy -->
-<div  align="centr">
-<div  align="right">
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+<!-- - Star passing -->
+
+<div  align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="700" height="350">
 </div>
-<div align="lrft">
-<h1  align="center">HEY!👋 I am Ira!✨</h1>
-</div>
-</div>
-<!-- **************************** -->
 
 ###
 
@@ -60,6 +57,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Canva_Logo.png" height="40" alt="canva logo" />
+
 </div>
 
 ###
