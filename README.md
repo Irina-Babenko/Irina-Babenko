@@ -30,7 +30,7 @@
 
 ###
 
-<h1  align="center"> Love what you do! Get inspired! Be in balance!✨ </h1>
+<h1  align="center"> Love what you do!🥰 Get inspired!✨ Be in balance!🧘‍♀️ </h1>
 
 ###
 
