@@ -59,7 +59,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Canva_Logo.png" height="40" alt="canva logo" />
+  <img src="https://img.icons8.com/color/48/000000/canva.png" height="40" alt="canva logo" />
 
 </div>
 
